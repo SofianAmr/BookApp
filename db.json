@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Martin Eden",
+      "author": "Jack London",
+      "editor": "L'édition française Illustrée",
+      "type": "Roman autobiographique",
+      "pages": "544"
+    },
+    {
+      "id": 2,
+      "title": "L'Alchimiste",
+      "autor": "Paulo Coelho",
+      "editor": "Anne Carrière",
+      "type": "Conte philosophique",
+      "pages": "253"
+    },
+    {
+      "id": 3,
+      "title": "Fondation",
+      "author": "Isaac Asimov",
+      "editor": "Gallimard",
+      "type": "Roman SF",
+      "pages": "256"
+    },
+    {
+      "id": 4,
+      "title": "Le Lion, la Sorcière blanche et l'Armoire magique",
+      "author": "C. S. Lewis",
+      "editor": "Hachette",
+      "type": "Roman fantastique",
+      "pages": "189"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter à l'école des sorciers",
+      "author": "J. K. Rowling",
+      "editor": "Gallimard Jeunesse",
+      "type": "Roman fantastique",
+      "pages": "308"
+    },
+    {
+      "id": 6,
+      "title": "L'étranger",
+      "author": "Albert Camus",
+      "editor": "Gallimard",
+      "type": "Roman",
+      "pages": "159"
+    },
+    {
+      "id": 7,
+      "title": "Dix petits nègres",
+      "author": "Agatha Christie",
+      "editor": "Librairie des Champs-Élysées",
+      "type": "Roman policier",
+      "pages": "244"
+    },
+    {
+      "id": 8,
+      "title": "Le Hobbit",
+      "author": "J. R. R. Tolkien",
+      "editor": "Stock",
+      "type": "Roman fantastique",
+      "pages": "287"
+    },
+    {
+      "id": 9,
+      "title": "Le Père Goriot",
+      "author": "Honoré de Balzac",
+      "editor": "Pocket",
+      "type": "Roman réaliste",
+      "pages": "416"
+    },
+    {
+      "id": 10,
+      "title": "L'Être et le Néant",
+      "author": "Jean-Paul Sartre",
+      "editor": "Gallimard",
+      "type": "Essai philosophique",
+      "pages": "722"
+    },
+    {
+      "id": 11,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "editor": "Lgf",
+      "type": "Roman",
+      "pages": "922"
+    } 
+  ]
+}
